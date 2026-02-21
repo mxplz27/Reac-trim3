@@ -2,7 +2,7 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
 export default defineConfig({
-  base: '/Reac-trimestre3/',  // 👈 fuera de babel
+  base: '/Reac-trim3/',  
   plugins: [
     react({
       babel: {
